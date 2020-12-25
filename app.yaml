@@ -1,0 +1,5 @@
+runtime: nodejs12
+env_variables:
+  NODE_ENV: "production"
+  JWT_SECRET: "pk_3q9-1n82924nb-43"
+  MONGODB_URI: "mongodb+srv://ali:qWAiIbu9sCiiCFhq@cluster0-j7td3.gcp.mongodb.net/BBNM?retryWrites=true&w=majority"

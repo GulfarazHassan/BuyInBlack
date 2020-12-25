@@ -1,0 +1,5 @@
+{
+  "name": "BBNM",
+  "description": "BBNM API Server",
+  "image": "heroku/nodejs"
+}
