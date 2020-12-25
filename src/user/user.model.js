@@ -61,6 +61,14 @@ const UserSchema = new mongoose.Schema({
         type: Boolean,
         default: false
       },
+      date_time: {
+        type: Date,
+        default: Date.now()
+      },
+      submitted: {
+        type: Boolean,
+        default: false
+      }
     }
   },
   push_notifications: [
